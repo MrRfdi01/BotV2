@@ -1,6 +1,6 @@
 {
   "name": "BetaBOT",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
   "directories": {
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/MrRfdi01/BotV2"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Rfdi✘",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/MrRfdi01/BotV2/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/MrRfdi01/BotV2#readme"
 }
