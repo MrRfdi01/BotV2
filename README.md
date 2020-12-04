@@ -12,12 +12,17 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ```bash
 > download termux
 > buka
+> termux-setup-storage
 > pkg install git
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/MrRfdi01/ScBotWaMrRfdi01
-> cd ScBotWaMrRfdi01
+> git clone https://github.com/MrRfdi01/BotV1
+> cd BotV1
+> npm i -g cwebp
+> npm i -g ytdl
+> npm i
+> npm i got
 > bash install.sh
 > node index.js
 ```
